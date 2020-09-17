@@ -29,10 +29,14 @@
 ## 目录
 - <a href = "#content_target_0"> C++常问基础知识50条 </a>
 - <a href = "#content_target_1"> 数据结构常问100条 </a>
+  - <a href = "#content_target_1_1"> 数据结构基础 </a>
+  - <a href = "#content_target_1_2"> 常见笔试题汇总 </a>
 - <a href = "#content_target_2"> STL底层原理 </a>
 - <a href = "#content_target_3"> 手撕代码666 </a>
 - <a href = "#content_target_4"> 设计模式23条 </a>
-- 
+- <a href = "#content_target_5"> 后端开发 </a>
+  - <a href = "#content_target_5_1"> 多线程 </a>
+
 ## 正文
 
 #### <a id = "content_target_0"> C++常问基础知识50条 </a>
@@ -52,19 +56,25 @@
 
 #### <a id = "content_target_1"> 数据结构常问100条(待整理) </a>
 
-[点击链接，直接食用](./data_structure/data_structure.md)
+  - <a href = "#content_target_1_1"> 数据结构基础 </a>
+
+    [点击链接，直接食用](./data_structure/data_structure.md)
 
 ![DS](./images/DS.png)
 
-1. 数组
-2. 链表 (插入、删除、快慢指针等)
-3. 栈   (近栈、出栈、单调栈等)
-4. 队列
-5. 树
-6. 哈希表
-7. 堆(小顶堆，大顶堆)
-8. 图(有向图，无向图)
+     1. 数组
+     2. 链表 (插入、删除、快慢指针等)
+     3. 栈   (近栈、出栈、单调栈等)
+     4. 队列
+     5. 树
+     6. 哈希表
+     7. 堆(小顶堆，大顶堆)
+     8. 图(有向图，无向图)
 
+  - <a href = "#content_target_1_2"> 常见笔试题汇总 </a>
+     - 子串子序列（硬核常考) : [点击链接](./data_structure/codes/string_sequence.md)
+     - 哈希表   （大部分题少不了哈希表）
+  
 #### <a id = "content_target_2"> STL底层原理(待整理) </a>
 
 [点击链接，直接食用](#)
@@ -98,3 +108,7 @@
 
 [点击链接，直接食用](#)
 
+
+#### <a id = "content_target_5"> 后端开发 </a>
+
+  - <a href = "#content_target_5_1"> 多线程 </a>

@@ -58,6 +58,8 @@
         int n = 10 , m ; 20;
         vector< vector<int> > matrix(n , vector<int>(m));
     ```
+    **注意事项：**
+        在使用vector时，如果初始初始化了大小，vector<int> nums(n);对数组进行赋值是，使用下标访问进行赋值，不能使用push_back(),否则值会从 n 开始继续往后面加。
 
 #### <a id = "#content_target_1"> 链表 </a>
 
